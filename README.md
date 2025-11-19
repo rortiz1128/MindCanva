@@ -47,7 +47,7 @@ mindcanvas-api/
 
 1) **Clone & enter** the project
 ```bash
-git clone https://github.com/<your-user>/mindcanvas-api.git
+git clone https://github.com/rortiz1128/mindcanvas-api.git
 cd mindcanvas-api
 ```
 
